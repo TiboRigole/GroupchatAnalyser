@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.json">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/org.json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/json-simple-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
