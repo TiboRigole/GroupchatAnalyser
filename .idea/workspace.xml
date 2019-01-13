@@ -148,7 +148,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547399038333" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547399578444" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/json-simple-1.1.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -217,12 +217,12 @@
       <updated>1546980986312</updated>
       <workItem from="1546980998381" duration="855000" />
       <workItem from="1547378533849" duration="5720000" />
-      <workItem from="1547398157450" duration="1156000" />
+      <workItem from="1547398157450" duration="1404000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7731000" />
+    <option name="totallyTimeSpent" value="7979000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="24" y="-8" width="1350" height="784" extended-state="6" />
